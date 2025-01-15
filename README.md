@@ -1,6 +1,5 @@
 # Full Stack App with React and a REST API
 
-This project is a Full Stack React application utilising the [School Database REST API built in a previous project.](https://github.com/alexhippo/rest-api-sql-v3) Users can use the web interface built with React to:
 - sign up
 - sign in
 - view courses
@@ -10,8 +9,6 @@ This project is a Full Stack React application utilising the [School Database RE
 
 This app was implemented according to the designs specified in the `/mockups` and `/markup` folder.
 
-## Motivation
-This project was created as part of the [Treehouse Full Stack Javascript Techdegree](https://teamtreehouse.com/techdegree/full-stack-javascript).
 
 ## Technologies used
 - Javascript
@@ -34,7 +31,7 @@ Click on the 'Code' button and clone this project via command line or select 'Do
 1. Run `npm install` in both the `api` and `client` folders to install all dependencies to run this project.
 1. On the `api` folder, run `npm run seed` to initialise the database with sample data
 1. Run `npm start` to start the application.
-1. Open your browser/API testing platform and visit [http://localhost:3000](http://localhost:3000).
+1. Open your browser/API testing platform and visit [http://localhost:5000](http://localhost:5000).
 
 ## Available Scripts
 In the project directory, you can run:
